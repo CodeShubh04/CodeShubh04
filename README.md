@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hostel Management System using MERN stack**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **codeshubh04@gmail.com**
 
