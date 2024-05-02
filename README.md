@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🔭 I’m currently working on **Hostel Management System using MERN stack**
+- 🔭 I’m currently working on **Analytical Projects**
 
 - 🌱 I’m currently learning **Data Analytics**
 
