@@ -2,7 +2,7 @@
 <h3 align="center">A Data Analytics enthusiast from India</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGF0N2twMjd6NTdyeGFiYTl0b3lvamZ3MWxqZHZxMjI3N2JibXR5ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Pk9TPqUpHXG3aIbhrb/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/QVxrNzhAaKO1xkH4y1/giphy.gif?cid=ecf05e47i2g7myyfuc3471w1tui1il3y5bqxewvoijb7rkau&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
 </div>
 
 - 🔭 I’m currently working on **Analytics projects**
