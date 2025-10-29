@@ -56,8 +56,7 @@ CNN-based model using OpenCV to predict gender and age from facial images.
 ---
 
 ### ⚙️ GitHub Analytics  
-
-![Shubhanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeShubh04&show_icons=true&theme=radical)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShubh04&layout=compact&theme=radical)
 
 ---
