@@ -1,26 +1,41 @@
-<h1 align="center">Hi 👋, I'm Shubhanshi Verma</h1>
-<h3 align="center">A Data Analytics enthusiast from India</h3>
+# 👋 Hi, I'm Shubhanshi Verma
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/QVxrNzhAaKO1xkH4y1/giphy.gif?cid=ecf05e47i2g7myyfuc3471w1tui1il3y5bqxewvoijb7rkau&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
-</div>
+🎓 **Final-year B.Tech CSE Student | Data Analyst | AI & ML Enthusiast**  
+💡 Passionate about transforming data into meaningful insights and stories.  
 
-- 🔭 I’m currently working on **Analytics projects**
+---
 
-- 🌱 I’m currently learning **Analytics tools**
+### 🧠 About Me
+- 🔍 I enjoy working on data analysis, visualization, and ML projects.  
+- 💻 Skilled in Python, SQL, Excel, Tableau, Power BI, and Machine Learning.  
+- 🌱 Currently exploring AI tools and their applications in startups.  
+- 💬 Ask me about data analysis, visualization, or AI projects.  
 
-- 👨‍💻 All of my projects are available at [https://shubhanshi-verma.carrd.co/](https://shubhanshi-verma.carrd.co/)
+---
 
-- 💬 Ask me about **SQL, Python, Excel, Tableau, Power BI**
+### 🧩 Projects I'm Proud Of
+- 📊 [Customer Churn Prediction](https://github.com/CodeShubh04/Customer-Churn-Prediction) — ML model using PCA & Logistic Regression.  
+- 🍴 [Zomato Data Analysis](https://github.com/CodeShubh04/Zomato-CRM-Analysis) — Data cleaning, visualization & insights extraction.  
+- 💸 [Expense Tracker](https://github.com/CodeShubh04/Expense-Tracker) — Visual dashboard for spending insights.  
+- 🤖 [Gender and Age Detection](https://github.com/CodeShubh04/Gender-and-Age-Detection) — CNN-based image classification.
 
-- 📫 How to reach me **codeshubh04@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubh-verma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubh-verma/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shubhanshiverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shubhanshiverma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/codeshubh04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/codeshubh04/" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack
+| Category | Tools |
+|-----------|-------|
+| **Languages** | Python, SQL, C++, Java |
+| **Libraries** | NumPy, Pandas, Matplotlib, Scikit-learn |
+| **Data Tools** | Excel, Tableau, Power BI |
+| **Other Skills** | Git, Data Visualization, EDA, Communication |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shubhanshiverma04)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/CodeShubh04)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:shubhanshiverma04@gmail.com)
+
+---
+
+⭐ _“Data tells stories — I turn them into insights.”_
