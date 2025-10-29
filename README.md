@@ -50,7 +50,7 @@ CNN-based model using OpenCV to predict gender and age from facial images.
 ✍️ **Technical Writer Intern — Freaky Diodes**  
 - Authored technical blogs and AI content to simplify data and ML concepts.  
 
-👥 **Member — Google Developer Student Clubs (GDSC)**  
+👥 **Lead — Google Developer Student Clubs (GDSC)**  
 - Participated in workshops and team projects promoting AI & data literacy.  
 
 ---
