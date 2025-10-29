@@ -22,19 +22,19 @@
 
 ### 🚀 Featured Projects  
 
-#### 🧩 [Customer Churn Prediction](https://github.com/CodeShubh04/Customer-Churn-Prediction)
+#### 🧩 [Customer Churn Prediction](https://github.com/CodeShubh04/Churn-Analysis)
 - Built a **logistic regression model** with **PCA & LDA** achieving **85% accuracy**.  
 - Visualized churn trends using Power BI dashboards.  
 
-#### 🍴 [Zomato Customer Relationship Analysis](https://github.com/CodeShubh04/Zomato-CRM-Analysis)
+#### 🍴 [Zomato Customer Relationship Analysis](https://github.com/CodeShubh04/Zomato-data-analysis)
 - Conducted **EDA** and **spatial analysis** on restaurant data.  
 - Extracted actionable insights for CRM and business strategy.  
 
-#### 💸 [Expense Tracker (ML-Integrated)](https://github.com/CodeShubh04/Expense-Tracker)
+#### 💸 [Expense Tracker (ML-Integrated)](https://github.com/CodeShubh04/Expense-Tracker-with-Machine-Learning)
 - Developed a **Python + Tkinter** app to visualize and predict expenses.  
 - Used **SQLite + scikit-learn** for tracking and categorization.  
 
-#### 🤖 [Gender and Age Detection (CNN)](https://github.com/CodeShubh04/Gender-and-Age-Detection)
+#### 🤖 [Gender and Age Detection (CNN)](https://github.com/CodeShubh04/CodeClause_Gender-and-age-detection-system)
 - Implemented a **Convolutional Neural Network (CNN)** for age & gender recognition.  
 - Improved model generalization by **18% through preprocessing**.  
 
