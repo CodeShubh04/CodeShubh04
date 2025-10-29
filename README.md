@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubhanshi Verma
 
-🎓 **Final-year B.Tech CSE Student | Data Analyst | AI & ML Enthusiast**  
+🎓 **Data Analyst | AI & ML Enthusiast**  
 💡 Passionate about transforming data into meaningful insights and stories.  
 
 ---
@@ -32,9 +32,9 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shubhanshiverma04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubh-verma/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/CodeShubh04)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:shubhanshiverma04@gmail.com)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:codeshubh04@gmail.com)
 
 ---
 
