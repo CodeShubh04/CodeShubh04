@@ -6,14 +6,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shubh-verma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:codeshubh04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/CodeShubh04"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- <a href="https://github.com/CodeShubh04"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a> -->
 </p>
 
 ---
 
 ### 🌟 About Me  
 - 🔍 Passionate about **data analysis, visualization, and machine learning**.  
-- 🧠 Skilled in **Python, SQL, Excel, Tableau, and Power BI**.  
+- 🧠 Skilled in **Python, SQL, Excel, Tableau, PostgreSQL and Power BI**.  
 - 🤝 Love collaborating on **data-driven projects** and **AI innovations**.  
 - 🚀 Exploring how AI tools can make businesses smarter.  
 - 🌱 Currently learning **Prompt Engineering & Generative AI applications**.  
@@ -36,7 +36,10 @@
 
 #### 🤖 [Gender and Age Detection (CNN)](https://github.com/CodeShubh04/CodeClause_Gender-and-age-detection-system)
 - Implemented a **Convolutional Neural Network (CNN)** for age & gender recognition.  
-- Improved model generalization by **18% through preprocessing**.  
+- Improved model generalization by **18% through preprocessing**.
+
+#### 🤖 [University Admissions & Outreach Analytics Dashboard](https://github.com/CodeShubh04/University-Admissions-Outreach-Dashboard)
+- An end-to-end data engineering and visualization pipeline designed to track and analyze university admission outreach campaigns. 
 
 ---
 
@@ -58,15 +61,19 @@
 
 ### 💼 Experience  
 
-**🧠 Data Science Intern — [CodeClause](https://codeclause.com/)**  
+** Associate Data Analyst Intern — Excelerate**  
+- Diagnosed user data issues, validated accuracy, and analyzed workflows to identify inefficiencies and suggest improvements.  
+- Built Google Data Studio dashboards and collaborated across time zones to improve decision-making and cross-team alignment.
+
+** Data Science Intern — [CodeClause](https://codeclause.com/)**  
 - Built a **CNN-based Gender & Age Detection Model**.  
 - Enhanced accuracy and data preprocessing pipeline.  
 
-**✍️ Technical Writer Intern — [Freaky Diodes](https://freakydiodes.com/)**  
+** Technical Writer Intern — [Freaky Diodes](https://freakydiodes.com/)**  
 - Authored technical blogs simplifying data & ML concepts.  
 - Improved SEO performance and reader engagement.  
 
-**🚀 Lead — Google Developer Student Clubs (GDSC)**  
+** Lead — Google Developer Student Clubs (GDSC)**  
 - Organized hackathons, workshops, and AI/ML learning sessions for 300+ students.  
 - Mentored peers on data analysis and cloud fundamentals.  
 
