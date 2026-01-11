@@ -79,12 +79,4 @@
 
 ---
 
-### 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShubh04&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
 ⭐ _“Data tells stories — I turn them into insights.”_
